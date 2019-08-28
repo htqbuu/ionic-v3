@@ -35,7 +35,7 @@ export class ModuleLoader {
       promise.catch(() => {
           this._promiseMap.delete(modulePath);
       });
-      this._promiseMap.set(modulePath, promise);         
+      this._promiseMap.set(modulePath, promise);
     }
 
     return promise.then(loadedModule => {
