@@ -1,3 +1,13 @@
+<a name="3.9.9"></a>
+## [3.9.9](https://github.com/ionic-team/ionic/compare/v3.9.8...v3.9.9) (2019-08-28)
+
+
+### Bug Fixes
+
+* remove module from ModuleLoader cache map on promise reject ([ef5d10e](https://github.com/ionic-team/ionic/commit/ef5d10e))
+
+
+
 <a name="3.9.8"></a>
 ## [3.9.8](https://github.com/ionic-team/ionic/compare/v3.9.7...v3.9.8) (2019-07-11)
 
